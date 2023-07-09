@@ -1,0 +1,7 @@
+/*DOCUMENTO CSS*/
+
+
+#comida { background-color: rgb(255, 224, 224); }
+
+.items1, .item2, .item3 {text-align: center;
+         min-height: 160px;}
